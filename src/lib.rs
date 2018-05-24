@@ -46,7 +46,7 @@ pub mod __reexports {
     pub use core::marker::PhantomData;
 }
 
-// A `Key<T>` is a string constant which additionally remebers type `T`.
+// A `Key<T>` is a string constant which additionally remembers type `T`.
 pub struct Key<T> {
     // public for `typed_key!` macro
     #[doc(hidden)]
