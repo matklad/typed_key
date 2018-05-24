@@ -21,7 +21,7 @@
 //! for a more long winded explanation of the pattern.
 //!
 //! [example]: https://github.com/matklad/typed_key/blob/master/examples/serde.rs
-//! [blog post]: https://matklad.github.io/2018/05/24/typed_key_pattern.html
+//! [blog post]: https://matklad.github.io/2018/05/24/typed-key-pattern.html
 //!
 //! Using string keys is totally fine for small isolated cases, but if this pattern
 //! is pervasive, `typed_key` can provide the following benefits:
