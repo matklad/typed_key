@@ -1,7 +1,7 @@
 # typed_key
 
 [![Build Status](https://travis-ci.org/matklad/typed_key.svg?branch=master)](https://travis-ci.org/matklad/typed_key)
-[![Cargo](https://img.shields.io/crates/v/typed_key.svg)](https://crates.io/crates/typed_key)
+[![Crates.io](https://img.shields.io/crates/v/typed_key.svg)](https://crates.io/crates/typed_key)
 [![API reference](https://docs.rs/typed_key/badge.svg)](https://docs.rs/typed_key/)
 
 
