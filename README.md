@@ -19,8 +19,6 @@ use typed_key::Key;
 
 // `PORT` is basically `"port"` string with associated `u32` type.
 const PORT: Key<u32> = typed_key!("port");
-
-# fn main() {}
 ```
 
 This crate provides basic building block for such strongly-typed strings.
