@@ -1,0 +1,12 @@
+language: rust
+
+matrix:
+  include:
+    - rust: stable
+      script:
+        - cargo test
+	- cargo run --example serde
+	
+    - rust: nightly
+      script: cargo test --features nightly
+    
