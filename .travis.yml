@@ -6,6 +6,7 @@ matrix:
       script:
         - cargo test
         - cargo run --example serde
+        - cargo run --example any
 
     - rust: nightly
       script:
